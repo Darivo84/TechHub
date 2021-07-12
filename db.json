@@ -1,0 +1,48 @@
+{
+  "services": [
+    { 
+      "id": 1, 
+      "title": "Data Protection", 
+      "thumbnailUrl": "http://localhost:9000/Data_Protection.png", 
+      "rate": 34,
+      "rating": 4, 
+      "specialist": { 
+        "id": 1, 
+        "fullName": "Jack Bowman" 
+      }
+    },
+    { 
+      "id": 2, 
+      "title": "Data Maintenance", 
+      "thumbnailUrl": "http://localhost:9000/Data_Maintenance.png", 
+      "rate": 50,
+      "rating": 5, 
+      "specialist": { 
+        "id": 2, 
+        "fullName": "Dayne Voller" 
+      }
+    },
+    { 
+      "id": 3, 
+      "title": "Data Organization", 
+      "thumbnailUrl": "http://localhost:9000/Data_Organization.png", 
+      "rate": 42,
+      "rating": 3, 
+      "specialist": { 
+        "id": 3, 
+        "fullName": "Shane Douman" 
+      }
+    },
+    { 
+      "id": 4, 
+      "title": "Data Storage", 
+      "thumbnailUrl": "http://localhost:9000/Data_Storage.png", 
+      "rate": 50,
+      "rating": 4, 
+      "specialist": { 
+        "id": 4, 
+        "fullName": "Tashianca Voller" 
+      }
+    }
+  ]
+}
