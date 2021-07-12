@@ -10,8 +10,3 @@ function App() {
 }
 
 export default App;
-
-// https://www.youtube.com/watch?v=9GAE1woEWYA
-// Start @ 1h37.30
-
-// json-server --watch db.json --static ./src/images/thumbnails/ --port 9000
