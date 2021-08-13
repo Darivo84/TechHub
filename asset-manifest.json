@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/techhub/static/css/main.91bbec84.chunk.css",
+    "main.js": "/techhub/static/js/main.d8dab081.chunk.js",
+    "main.js.map": "/techhub/static/js/main.d8dab081.chunk.js.map",
+    "runtime-main.js": "/techhub/static/js/runtime-main.e615910d.js",
+    "runtime-main.js.map": "/techhub/static/js/runtime-main.e615910d.js.map",
+    "static/js/2.993adc81.chunk.js": "/techhub/static/js/2.993adc81.chunk.js",
+    "static/js/2.993adc81.chunk.js.map": "/techhub/static/js/2.993adc81.chunk.js.map",
+    "static/js/3.ee071d16.chunk.js": "/techhub/static/js/3.ee071d16.chunk.js",
+    "static/js/3.ee071d16.chunk.js.map": "/techhub/static/js/3.ee071d16.chunk.js.map",
+    "index.html": "/techhub/index.html",
+    "static/css/main.91bbec84.chunk.css.map": "/techhub/static/css/main.91bbec84.chunk.css.map",
+    "static/js/2.993adc81.chunk.js.LICENSE.txt": "/techhub/static/js/2.993adc81.chunk.js.LICENSE.txt",
+    "static/media/landing-page.6952de7e.jpg": "/techhub/static/media/landing-page.6952de7e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e615910d.js",
+    "static/js/2.993adc81.chunk.js",
+    "static/css/main.91bbec84.chunk.css",
+    "static/js/main.d8dab081.chunk.js"
+  ]
+}
