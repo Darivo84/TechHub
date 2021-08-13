@@ -3,7 +3,7 @@ import { HomePage } from './containers/HomePage/index';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" basename="/techhub">
       <HomePage />
     </div>
   );
